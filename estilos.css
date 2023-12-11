@@ -1,0 +1,73 @@
+
+.navbar-brand{
+  padding-left: 65px;
+  padding-top: 0px;
+}
+
+
+.imagentitulo{
+  padding-left: 250px;
+  padding-top: 0px;
+}
+
+.titulo1{
+  padding-left: 65px;
+  padding-top: 0px;
+}
+.semititulo{
+  padding-left: 65px;
+  padding-top: 0px;
+}
+
+.imagen1{
+  padding-left: 65px;
+  padding-top: 0px;
+}
+
+.imagenes{
+  padding-top: -0px;
+  margin: 50px;
+}
+#img{
+  margin: 20px;
+}
+
+#img2{
+  margin: 20px;
+}
+
+#img3{
+  margin: 20px;
+}
+
+#img4{
+  margin: 20px;
+}
+
+.row{
+  padding-right: 450px;
+}
+.columna3{
+  padding-top: 50px;
+}
+.cartas{
+  display:flex;
+  flex-direction: row;
+  padding-left: 150px;
+}
+
+.carta1{
+  left: 110px;
+  position: relative;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+}
+
+.todo1{
+  padding-left: 300px;
+}
+
+
+
+
